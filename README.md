@@ -22,3 +22,9 @@ Alternatively, for Fedora users, it can be installed using yum:
 ```
 sudo yum install -y MySQL-python
 ```
+
+To run the project, clone repository and execute
+```
+mvn exec:java
+```
+in project dir
